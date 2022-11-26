@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
 
     <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/poduct_card.js"></script>
     <script type="text/javascript" src="js/ddsmoothmenu.js">
 
         /***********************************************
@@ -111,7 +112,7 @@
                     </ul>
                 </li>
                 <li><a href="/faqs">FAQs</a></li>
-                <li><a href="/checkoutl">Checkout</a></li>
+                <li><a href="/checkout">Checkout</a></li>
                 <li><a href="/contact">Contact</a></li>
             </ul>
             <br style="clear: left" />

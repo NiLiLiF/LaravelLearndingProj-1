@@ -1,4 +1,4 @@
-//** Smooth Navigational Menu- By Dynamic Drive DHTML code library: http://www.dynamicdrive.com
+//** my Smooth Navigational Menu- By Dynamic Drive DHTML code library: http://www.dynamicdrive.com
 //** Script Download/ instructions page: http://www.dynamicdrive.com/dynamicindex1/ddlevelsmenu/
 //** Menu created: Nov 12, 2008
 
