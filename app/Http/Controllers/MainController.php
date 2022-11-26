@@ -9,4 +9,8 @@ class MainController extends Controller
     public function index(){
         return '<div> My TEXT </div>';
     }
+
+    public function about(){
+        return '<div> about </div>';
+    }
 }
