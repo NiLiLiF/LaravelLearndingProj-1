@@ -6,11 +6,15 @@ use Illuminate\Http\Request;
 
 class MainController extends Controller
 {
-    public function index($message){
-        return '<div> My TEXT: '.$message.' </div>';
+    public function way($message){
+        return view('main/main',['content'=>$message]);
+    }
+
+    public function index(){
+        return view('index');
     }
 
     public function about(){
-        return '<div> about </div>';
+        return view('about');
     }
 }
